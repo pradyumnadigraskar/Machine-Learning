@@ -5,7 +5,7 @@
 1. **Introduction to Machine Learning**
 2. **Supervised Learning**
     - Description
-    - Types
+    - Type's
     - Necessary Libraries
     - Algorithms
         - Linear Regression
